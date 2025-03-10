@@ -3,7 +3,9 @@
 int main(){
 
     int i = 1;
-
+    
+//Bispo
+    
     printf("Bispo moveu 5 casas pra cima a direita!\n");
 
     while (i <= 5){
@@ -17,6 +19,8 @@ int main(){
     printf("\n");
 
     i = 1;
+
+    //Torre
     
     printf("A Torre moveu 5 casas pra frente:\n");
 
@@ -34,6 +38,8 @@ int main(){
 
 
     printf("\n");
+
+    //Rainha
 
     printf("A Rainha Moveu 8 casas pra Esquerda:\n");
 
